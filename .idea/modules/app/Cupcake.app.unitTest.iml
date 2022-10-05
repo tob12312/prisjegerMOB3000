@@ -29,7 +29,6 @@
           <stringArguments>
             <stringArg name="classpath">
               <args>
-                <arg>$MODULE_DIR$/../../../app/build/intermediates/compile_and_runtime_not_namespaced_r_class_jar/debug/R.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/transforms-3/c34534e7674256d7db25ed779643a102/transformed/ui-tooling-1.1.1-api.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/transforms-3/cf9082a3acee8967792b8b6d3ca43dac/transformed/navigation-compose-2.5.0-api.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/transforms-3/386c3ddddeb8802712f9dea32b288c7f/transformed/activity-compose-1.5.0-api.jar</arg>

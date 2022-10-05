@@ -24,6 +24,8 @@ import com.example.cupcake.data.HandlelisteItems
 import com.example.cupcake.data.HandlelisteUiState
 import com.example.cupcake.ui.theme.CupcakeTheme
 
+val testendring: String = "dette er test"
+val testendring2: String = "dette er test2"
 
 @Composable
 fun HandlelisteScreen(
