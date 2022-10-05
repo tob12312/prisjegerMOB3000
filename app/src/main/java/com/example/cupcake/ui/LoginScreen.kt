@@ -23,6 +23,7 @@ import androidx.compose.ui.unit.dp
 @Preview(showBackground = true, widthDp = 320, heightDp = 320)
 @Composable
 fun LoginScreen( ) {
+    val userval =0
     var brukerNavn by remember{ mutableStateOf("")}
     var passord by remember{ mutableStateOf("")}
     Column() {
